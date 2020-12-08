@@ -1,4 +1,3 @@
-do you know me quiz
 This is a CLI quiz app written in NodeJS. Using readline-sync as a dependency to ask question from user. 
 Providing final score of user at the end.
 
